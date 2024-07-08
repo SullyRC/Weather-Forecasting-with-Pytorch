@@ -1,0 +1,1 @@
+This repository is for a personal learning project. It goes through a time series forecasting problem for weather data using Pytorch. The goal was to learn how to use Pytorch as well as get a better understanding of new architectures.
